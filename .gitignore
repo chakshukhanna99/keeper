@@ -1,0 +1,7 @@
+package-lock.json
+node_modules/*
+.idea/*
+images/*
+/node_modules/
+.DS_Store
+*.sublime*
